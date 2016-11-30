@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Accès réserver à BookAndJoy"
+AuthUserFile "C:/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/bookandjoyRepository/demo/accounts/.htpasswd"
+require valid-user
